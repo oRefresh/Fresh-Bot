@@ -1,0 +1,22 @@
+{
+  "name": "fresh-bot",
+  "version": "1.0.0",
+  "description": "My very own discord bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oRefresh/Fresh-Bot.git"
+  },
+  "author": "oRefresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oRefresh/Fresh-Bot/issues"
+  },
+  "homepage": "https://github.com/oRefresh/Fresh-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
